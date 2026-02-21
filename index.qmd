@@ -1,0 +1,72 @@
+---
+title: "Statistical Theory and Modelling, 7.5 hp"
+format: html
+---
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<img src="misc/mixture_mosaic2.png" alt="AI generated image of a mixture distribution" class="center" width="100%"/>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/StatisticsSU/STM" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Star this course on GitHub">Star</a>
+
+### Aim
+
+> This is a course on the [Master’s Program in Data Science, Statistics and Decision Analysis](https://dsv.su.se/sdsbo) at Stockholm University.
+>
+> The course is designed to bridge between the basic course [Statistics and Data Analysis for Computer and Systems Sciences, 15 hp](https://www.su.se/english/search-courses-and-programmes/st1601-1.735817) and the master's level course [Bayesian Learning, 7.5 hp](https://github.com/mattiasvillani/BayesLearnCourse). The objective is therefore to provide a **focused** course in the probability, statistical theory and modeling needed to follow the Bayesian Learning course.
+
+### Contents
+
+-   **Mathematical methods**: derivatives, integrals, optimization, numerical optimization, vectors and matrices.
+
+-   **Probability theory**: discrete and continuous stochastic variables, density and probability functions, distribution functions, multivariate distributions, multivariate normal distribution, marginal distributions, conditional distributions, independence, expected value, variance, and covariance, functions of stochastic variables, sampling distributions, law of large numbers, central limit theorem.
+
+-   **Modelling and prediction**: linear and non-linear regression, dummy variables and interactions, model selection, cross-validation, overfitting, regularization, classification, logistic regression, multinomial logistic regression, Poisson regression.
+
+-   **Inference**: point estimation, bias-variance trade-off, maximum likelihood (ML), likelihood theory, numerical optimization for ML estimation, bootstrap.
+
+-   **Time series**: trend and seasonality, autocorrelation, autoregressive models.
+
+### Literature
+
+-   Wackerley, Mendenhall and Scheaffer (2021). [Mathematical Statistics with Applications](https://www.cengage.uk/c/mathematical-statistics-with-applications-7e-wackerly/9780495110811/), 7th edition, Cengage.
+-   Villani, M. (2025). [Bayesian Learning - the prequel](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/PreBayesBook.pdf). Notes on basic mathematics, probability and statistical inference. Work in progress.
+-   Additional material and handouts distributed during the course.
+
+### Structure
+
+The course consists of [lectures](lectures.qmd), [mathematical exercises](exercises.qmd) and [computer labs](computerlabs.qmd).
+
+### Examination
+
+The course is examined by a
+
+-   written exam (grades A-F)
+-   [home assignment](homeassignment.qmd) (grade pass/fail).
+
+### Schedule
+
+The course schedule can be found on [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.html?i=x7ce6e7Z4n0wknyaQhxnZclQln_0nbZZZZX501QcTcn_sl7916Qy6d640666u65690907ZWQnw). A tip is to select *Subscribe* in the upper right corner of TimeEdit and then paste the link into your phone's calendar program.
+
+### Formula sheet
+
+This [formula sheet](misc/formulasheet/STM_FormulaSheet.pdf) will be distributed to you at the exam.
+
+### Interactive material
+
+The course makes heavy use of interactive Observable notebooks in javascript that runs in your browser. The widgets will be linked below each relevant lecture. All widgets used in the course are available [here](https://observablehq.com/collection/@mattiasvillani/stm).
+
+### Teachers
+
+::: {layout="[ [1,1],[1,1] ]"}
+<img src="/misc/VillaniLowRes.jpg" width="30%"/>\
+[Mattias Villani](https://mattiasvillani.com)<br>Course responsible <br> lecturer<br>Professor
+
+![](/misc/female.png){width="35%"}\
+[Fasna Kottakkunnan](https://www.su.se/profiles/fako4336-1.797508)<br>Exercises<br>Computer labs<br>
+
+![](misc/male.png){width="85"}\
+[Ralf Xhaferi](https://www.su.se/profiles/raxh4527-1.569769)<br>Exercises<br>Computer labs<br>
+:::

@@ -1,0 +1,82 @@
+---
+title: "Lectures for Statistical Theory and Modelling, 7.5 hp"
+format: html
+---
+
+<img src="misc/mixture_mosaic1.png" alt="AI generated image of a mixture distribution" class="center" width="100%"/>
+
+> This page contains a short description of the contents, reading instructions and additional material for each lecture.
+
+### Schedule
+The course schedule can be found on [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.html?i=x7ce6e7Z4n0wknyaQhxnZclQln_0nbZZZZX501QcTcn_sl7916Qy6d640666u65690907ZWQnw). 
+
+### Literature
+The **MSA** listed below are section numbers from the course book Wackerley, Mendenhall and Scheaffer (2021). [Mathematical Statistics with Applications](https://www.cengage.uk/c/mathematical-statistics-with-applications-7e-wackerly/9780495110811/), 7th edition, Cengage.
+
+The **BLprequel** listed below are section numbers from a book [Bayesian Learning - the prequel](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/PreBayesBook.pdf) that I have started writing for this course.
+
+### Lecture contents
+
+**Preparatory - Basic maths (math check/self-study)**\
+*This is not a lecture, but check that you remember this prerequisite high school maths, or otherwise freshen it up at the start of the course.* \
+Read:  BLprequel 1.1-1.7. 
+
+**Lecture 1 - Differentiation**\
+Read: BLprequel 1.8-1.14 | [Slides](/slides/L1Math.pdf) \
+Notebooks and widgets: [Exponential function](https://observablehq.com/@mattiasvillani/the-exponential-function?collection=@mattiasvillani/stm) | [Logarithms](https://observablehq.com/@mattiasvillani/the-logarithm-function?collection=@mattiasvillani/stm) | [Derivatives](https://observablehq.com/@mattiasvillani/the-derivative) \
+
+**Lecture 2 - Optimization. Integration.**\
+Read: BLprequel 1.16 | [Notebook on function optimization](https://observablehq.com/@mattiasvillani/function-optimization) | [Slides](/slides/L2Integral.pdf)  \
+Widgets: [Integrals](https://observablehq.com/@mattiasvillani/the-riemann-integral) | [Common functions and their derivatives](https://observablehq.com/@mattiasvillani/some-functions-and-their-derivatives?collection=@mattiasvillani/stm)
+
+**Lecture 3 - Discrete random variables.**\
+Read: If needed, refresh basic probability in Ch. 12-13 in the [SDA1 course book](https://eu.pearson.com/stats-data-and-models-global-edition/9781292362328R365) MSA 3.1-3.6, 3.8, 3.11 | [Slides](/slides/L3DiscreteProb.pdf)  \
+Widgets: [Bernoulli](https://observablehq.com/@mattiasvillani/bernoulli-distribution) | [Binomial](https://observablehq.com/@mattiasvillani/binomial-distribution) | [Geometric](https://observablehq.com/@mattiasvillani/geometric-distribution) | [Poisson](https://observablehq.com/@mattiasvillani/poisson-distribution) | [Negative binomial](https://observablehq.com/@mattiasvillani/negative-binomial-distribution) | [Chebychev's inequality](https://observablehq.com/@mattiasvillani/chebyshevs-inequality)\
+Extras: [List with 50+ statistical distribution widgets](https://observablehq.com/collection/@mattiasvillani/distributions)
+
+**Lecture 4 - Continuous random variables.**\
+Read: MSA 4.1-4.8, 4.10 | [Slides](/slides/L4ContinuousProb.pdf) \
+Widgets: [Normal](https://observablehq.com/@mattiasvillani/normal-gaussian-distribution) | [Exponential](https://observablehq.com/@mattiasvillani/exponential-distribution) | [Beta](https://observablehq.com/@mattiasvillani/beta-distribution) | [Student-t](https://observablehq.com/@mattiasvillani/student-t-distribution) | [Gamma](https://observablehq.com/@mattiasvillani/gamma-distribution) \
+Extras: [List with 50+ statistical distribution widgets](https://observablehq.com/collection/@mattiasvillani/distributions)
+
+**Lecture 5 - Joint and conditional distributions. Covariance and correlation. Bayes theorem.**\
+Read: MSA 5.1-5.8, 5.11 | BLprequel 1.16 (double integrals) | [Slides](/slides/L5JointProb.pdf) \
+
+**Lecture 6 - Transformation of random variables. Monte Carlo simulation. Law of large numbers. Central limit theorem.**\
+Read: MSA 6.1-6.4, 7.3 | [Law of large numbers notebook](https://observablehq.com/@mattiasvillani/law-large-numbers) | [central limit theorem notebook](https://observablehq.com/@mattiasvillani/central-limit-theorem) | [Slides](/slides/L6_lln_clt.pdf) \
+Widgets: [Law of large numbers](https://observablehq.com/@mattiasvillani/law-large-numbers) | [central limit theorem](https://observablehq.com/@mattiasvillani/central-limit-theorem) \
+
+**Lecture 7 - Point estimation. Maximum likelihood. Sampling distributions.**\
+Read: MSA 9.1-9.2, 9.3 (pages 448-451), 9.4, 9.7 | Sections 1-4 of [tutorial on maximum likelihood](tutorial/numericalML/numericalML.qmd) | [Slides](/slides/L7_mle.pdf) \
+Widgets: [Sampling distribution and Likelihood](https://observablehq.com/@mattiasvillani/sampling-distribution-and-likelihood-function-bern) | [ML - Bernoulli data](https://observablehq.com/@mattiasvillani/maximum-likelihood-bernoulli-data) | [ML - Poisson data](https://observablehq.com/@mattiasvillani/maximum-likelihood-for-iid-poisson-data)\
+
+**Lecture 8 - Vectors and matrices. Linear Regression. Multivariate normal distribution.**\
+Read: MSA A1.1-A1.7, 5.10, 11.10-11.11 | [Slides](/slides/L8_LinRegVectorForm.pdf) \
+Widgets: [Bivariate normal distribution](https://observablehq.com/@mattiasvillani/multivariate-normal-distribution?collection=@mattiasvillani/stm)
+
+**Lecture 9 - Observed and Fisher information. Numerical optimization.**\
+Read: Sections 5-7 of [tutorial on maximum likelihood](tutorial/numericalML/numericalML.qmd) | [Slides](/slides/L9_InformationOptim.pdf) |  \
+Widgets: [Second derivative as function curvature](https://observablehq.com/@mattiasvillani/second-derivative-measures-the-curvature-of-a-function) | [Likelihood and Information](https://observablehq.com/@mattiasvillani/likelihood-and-information) \
+Code: [Optim for Poisson model](/code/Optim4Poisson.R) | [Optim for Gamma model](/code/Optim4Gamma.R) | [Optim for Exponential Regression](/code/Optim4ExpReg.R) | [Sampling distribution for the MLE](/code/FisherInfoSampDistMLE_expon.R)
+
+**Lecture 10 - Logistic, Poisson regression and beyond.**\
+Read: Sections 5-7 of [tutorial on maximum likelihood](tutorial/numericalML/numericalML.qmd) | [Slides](/slides/L10_NonGaussianReg.pdf)  \
+Widgets: [Poisson regression](https://observablehq.com/@mattiasvillani/maximum-likelihood-poisson-regression)
+
+**Lecture 11 - Nonlinear regression. Regularization. Exponential growth regression.**\
+Read: [Slides](/slides/L11_NonLinearReg.pdf)
+
+**Lecture 12 - Time series. Autocorrelation function. Autoregressive models.**\
+Read: [Slides](/slides/L12_TimeSeries.pdf) \
+Widgets: [Simulate AR and estimate autocorrelation function](https://observablehq.com/@mattiasvillani/ar-simulation-and-autocorrelation)
+
+**Lecture 13 - Example exam 1**\
+Read: PreExam1 at Athena 
+
+**Lecture 14 - Example exam 2.**\
+Read: PreExam2 at Athena 
+
+
+
+
+

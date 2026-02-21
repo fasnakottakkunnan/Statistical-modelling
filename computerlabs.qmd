@@ -1,0 +1,15 @@
+---
+title: "Computer labs for Statistical Theory and Methods, 7.5 hp"
+format: html
+---
+
+<img src="misc/mixture_mosaic4.png" alt="AI generated image of a mixture distribution" class="center" width="100%"/>
+
+
+**Computer lab 1 - Probability models. Monte Carlo simulation**\
+Material: [html](misc/larry.png)
+
+**Computer lab 2 - Numerical maximum likelihood.**\
+Material: [html](misc/larry.png)
+
+

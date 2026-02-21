@@ -1,0 +1,14 @@
+---
+title: "Tutorials for Statistical Theory and Methods, 7.5 hp"
+format: html
+---
+
+<img src="misc/mixture_mosaic5.png" alt="AI generated image of a mixture distribution" class="center" width="100%"/>
+
+Tutorials
+
+-   **Maximum likelihood by numerical optimization** [html](tutorial/numericalML/numericalML.qmd) | [quarto](https://github.com/StatisticsSU/STM/raw/main/tutorial/numericalML/numericalML.qmd)
+
+-   **Bootstrap** [html](tutorial/bootstrap/bootstrap.qmd) | [quarto](https://github.com/StatisticsSU/STM/raw/main/tutorial/bootstrap/bootstrap.qmd)
+
+-   **State-space models** [html](tutorial/statespace/statespace.qmd) | [quarto](https://github.com/StatisticsSU/STM/raw/main/tutorial/statespace/statespace.qmd) (Not used in the course, but pretty cool)
