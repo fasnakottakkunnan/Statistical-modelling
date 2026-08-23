@@ -45,5 +45,5 @@ This [formula sheet](misc/formulasheet/STM_FormulaSheet.pdf) will be distributed
 
 ### Interactive material
 
-The course makes heavy use of interactive Observable notebooks in javascript that runs in your browser. The widgets will be linked below each relevant lecture. All widgets used in the course are available [here](https://observablehq.com/collection/@mattiasvillani/stm).
+The course makes heavy use of interactive Observable notebooks in javascript that runs in your browser. The widgets will be linked below each relevant lecture. All widgets used in the course are available [here](http://localhost:8000).
 
