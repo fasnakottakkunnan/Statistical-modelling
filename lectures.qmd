@@ -1,5 +1,5 @@
 ---
-title: "Lectures for Statistical Theory and Modelling, 7.5 hp"
+title: "Lectures for Statistical Theory and Modelling"
 format: html
 ---
 
@@ -16,10 +16,7 @@ The **MSA** listed below are section numbers from the course book Wackerley, Men
 The **BLprequel** listed below are section numbers from a book [Bayesian Learning - the prequel](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/PreBayesBook.pdf) that I have started writing for this course.
 
 ### Lecture contents
-
-**Preparatory - Basic maths (math check/self-study)**\
-*This is not a lecture, but check that you remember this prerequisite high school maths, or otherwise freshen it up at the start of the course.* \
-Read:  BLprequel 1.1-1.7. 
+ 
 
 **Lecture 1 - Differentiation**\
 Read: BLprequel 1.8-1.14 | [Slides](/slides/L1Math.pdf) \
@@ -70,11 +67,7 @@ Read: [Slides](/slides/L11_NonLinearReg.pdf)
 Read: [Slides](/slides/L12_TimeSeries.pdf) \
 Widgets: [Simulate AR and estimate autocorrelation function](https://observablehq.com/@mattiasvillani/ar-simulation-and-autocorrelation)
 
-**Lecture 13 - Example exam 1**\
-Read: PreExam1 at Athena 
 
-**Lecture 14 - Example exam 2.**\
-Read: PreExam2 at Athena 
 
 
 
